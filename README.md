@@ -68,4 +68,10 @@ Feel free to fork and CHANGE.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments
+
+I would like to express my gratitude to Lovepreet Singh for their excellent tutorial, which was instrumental in the development of this project.
+You can find the tutorial here: Build Your Own WebServer : https://www.youtube.com/watch?v=eTvSgOoc_BE&list=PL7CBVLpg0zqdefaZ8SSZp-QgqsSimPQaA.
+
+
 [[Back to top]](#index)
